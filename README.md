@@ -1,5 +1,6 @@
 ![Github readme banner](https://github.com/ajay-mandal/ajay-mandal/blob/65e60f8c7ada091df0041030455e984f5b23cef3/badges/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 ## 👋About Me:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=hi%2C+welcome+to+my+profile!!;i+am+a+web+developer.;currently+learning+mern+stack.;i+am+always+finding+new+opportunities+to+learn+something+new.)](https://git.io/typing-svg)
 
 -🔭 Currently, I am working on improving my **Devloping skills**.<br>- 🌱 I am currently learning **MERN Stack**.<br>- 👯 I am interested in collaborating on **open-source projects**.<br>- 💬 Feel free to ask me about **Javascript**.<br>- 📫 You can reach me at &nbsp;shahkaran0675@gmail.com<br>- 😄 Pronouns: **He/Him**<br><br>
 
