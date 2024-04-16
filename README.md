@@ -21,7 +21,7 @@
 
 <h3>Frameworks</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,jquery)](https://skillicons.dev)
 
 <h3>Database & ORM</h3>
 
