@@ -16,7 +16,7 @@
 
 <h3>Language</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,java,c++,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,java,c++)](https://skillicons.dev)
 
 <h3>Frameworks</h3>
 
