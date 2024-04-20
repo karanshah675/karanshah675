@@ -34,7 +34,8 @@
  
 
 ## My Github Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width="30">   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=karanshah675&theme=modern-lilac2)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=karanshah675&theme=modern-lilac2)](https://git.io/streak-stats)
+
 
 
 ![Readme Finish](https://github.com/ajay-mandal/ajay-mandal/blob/65e60f8c7ada091df0041030455e984f5b23cef3/badges/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
