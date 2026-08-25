@@ -17,15 +17,15 @@
 
 <h3>Language</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,cpp,c,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,cpp,c,python,nodejs)](https://skillicons.dev)
 
 <h3>Frameworks</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,jquery)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,expressjs,react)](https://skillicons.dev)
 
 <h3>Database & ORM</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,moongodb)](https://skillicons.dev)
 
 <h3>DevOps Tools & Cloud</h3>
 
