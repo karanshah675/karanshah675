@@ -21,7 +21,7 @@
 
 <h3>Frameworks & Library</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=tailwind,bootstrap,gasp,expressjs,react,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tailwind,bootstrap,npm,expressjs,react,nextjs)](https://skillicons.dev)
 
 <h3>Database & ORM</h3>
 
