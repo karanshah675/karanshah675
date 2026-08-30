@@ -1,16 +1,10 @@
-![Github readme banner](https://github.com/ajay-mandal/ajay-mandal/blob/65e60f8c7ada091df0041030455e984f5b23cef3/badges/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+![Github readme banner](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjZjMWY5aXdudzJ2b2liOHZka3p1eHE1OGV4aW8zZW5udW1haW93eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5e25aUTZPcI94uMZgv/giphy.gif)
 ## 👋About Me:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=hi%2C+welcome+to+my+profile!!;i+am+a+web+developer.;currently+learning+mern+stack.;i+am+always+finding+new+opportunities+to+learn+something+new.)](https://git.io/typing-svg)
 
 -🔭 Currently, I am working on improving my **Devloping skills**.<br>- 🌱 I am currently learning **MERN Stack**.<br>- 👯 I am interested in collaborating on **open-source projects**.<br>- 💬 Feel free to ask me about **Javascript**.<br>- 📫 You can reach me at &nbsp;shahkaran0675@gmail.com<br>- 😄 Pronouns: **He/Him**<br><br>
 
-<p align="left">
-  <p>Visitor count</b></br>
-  <br>
-  <a style="" href="https://github.com/karanshah675">
-  <img src="https://profile-counter.glitch.me/karanshah675/count.svg" />
-  </a>
-</p>
+
 
 
 ## Tech Stack <img src = "https://github.com/ajay-mandal/ajay-mandal/blob/2dcbdc4abcd89dfca1ec2b174239cd7ff9f66593/badges/243199547-42077049-1939-493e-9a19-47ca5db36643.gif" width="80">
