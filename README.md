@@ -53,7 +53,7 @@
 
 <h3>Database & ORM</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,oracle)](https://skillicons.dev)
 
 <h3>DevOps Tools & Cloud</h3>
 
